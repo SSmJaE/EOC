@@ -10,34 +10,17 @@ const features = [
     {
         title: "易于使用",
         imageUrl: "img/undraw_docusaurus_mountain.svg",
-        description: (
-            <>
-                Docusaurus was designed from the ground up to be easily installed and used to get
-                your website up and running quickly.
-                图形化配置界面
-            </>
-        ),
+        description: <>图形化配置界面，多安装渠道</>,
     },
     {
         title: "专注问题",
         imageUrl: "img/undraw_docusaurus_tree.svg",
-        description: (
-            <>
-                Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go ahead and
-                move your docs into the <code>docs</code> directory.
-                解放生产力，为
-            </>
-        ),
+        description: <>解放生产力，专注于真正能提高能力的练习上</>,
     },
     {
         title: "Powered by Vue & Typescript",
         imageUrl: "img/undraw_docusaurus_react.svg",
-        description: (
-            <>
-                Extend or customize your website layout by reusing React. Docusaurus can be extended
-                while reusing the same header and footer.
-            </>
-        ),
+        description: <>基于Typescript，确保脚本的稳健</>,
     },
 ];
 

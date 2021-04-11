@@ -44,11 +44,18 @@ module.exports = {
         },
         {
             type: "category",
-            label: "一键时长",
-            items: ["WELearn/一键时长/index"],
+            label: "一键时长JavaScript版",
+            items: [
+                "WELearn/一键完成-JavaScript/简介",
+                "WELearn/一键完成-JavaScript/安装",
+                "WELearn/一键完成-JavaScript/使用",
+            ],
         },
-        //     ],
-        // },
+        {
+            type: "category",
+            label: "一键时长",
+            items: ["WELearn/一键时长/简介", "WELearn/一键时长/安装", "WELearn/一键时长/使用"],
+        },
     ],
     Unipus: [
         "Unipus/概览",
